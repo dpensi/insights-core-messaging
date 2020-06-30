@@ -10,7 +10,7 @@ develop = set([
 
 runtime = set([
     "attrs",
-    "insights-core",
+    "insights-core @ git+https://github.com/dpensi/insights-core@CCXDEV-1784",
     "requests",
     "s3fs",
     "retry",
